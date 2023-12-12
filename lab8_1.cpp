@@ -28,4 +28,5 @@ int main()
     cout << "You have received very KAK items.\n";
   }
   return 0;
+  
 }
